@@ -72,8 +72,13 @@ body {
     border: none;
     border-radius: 10px;
     font-weight: 50;
-    font-size: 24px;
-    color: #ecd6c4;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.botao:hover {
+    color: yellow;
+    text-decoration: none;
 }
 
 a {
