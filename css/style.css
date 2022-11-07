@@ -185,3 +185,7 @@ body {
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
   }
+
+  #sessao_exercicios{
+    padding: 10px;
+  }
